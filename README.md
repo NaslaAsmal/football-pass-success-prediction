@@ -1,8 +1,11 @@
 # football-pass-success-prediction
 # Football Pass Success Classification Using a Directed GCN
 Submitted by: Nasla K
-Register Number: 2026PHD21005 Course: DSC622 Graph Algorithms and Mining
+
+Register Number: 2026PHD21005 
+Course: DSC622 Graph Algorithms and Mining
 Programming Language: Python
+
 Environment: Anaconda Jupyter Notebook
 ## Project Overview
 This project implements a Graph Neural Network-based approach to classify football passes as successful or unsuccessful using StatsBomb Open Data from the FIFA Women's World Cup 2023.
